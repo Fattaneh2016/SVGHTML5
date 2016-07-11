@@ -15,6 +15,9 @@
         <path d="m300 105 l-40 -25 -78 0 0 34 122 0 z" fill="white" id="frontWindow" />
         <circle r="35" cy="185" cx="90" fill="black" id="rearWheel" />
         <circle r="35" cy="185" cx="400" fill="black" id="frontWheel" />
-    </svg>
+        
 
+    </svg>
+    
+    
 </svg>
